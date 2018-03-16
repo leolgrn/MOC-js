@@ -10,5 +10,5 @@ after_success:
 
 deploy:
   provider: heroku
-  api_key: 31a548e9-4efc-4504-8b43-e3ba9c0f6beb
-  app: foo-car-js
+  api_key: a4f1bb9b-2e30-4704-85f5-bab3a2ac6802
+  app: nodeweekdeploy
